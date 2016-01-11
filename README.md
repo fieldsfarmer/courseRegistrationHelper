@@ -14,6 +14,4 @@ Download the zip file from the link "Download Zip" on the right side. Unzip it. 
 
 5.Alternatively, you can drag and drop the directory where your extension files live onto chrome://extensions in your browser to load it.
 
-Now, you can see the UIUC logo in your Chrome toolbar. Login selfservice system, and click the extention icon, then click "GO 2 CS Course List!!". You are here!
-
-More features will come soon...
+Now, you can see the UIUC logo in your Chrome toolbar. Login selfservice system, and click the extention icon, then click "Let's go to the CS course list!". Then you will be there!
